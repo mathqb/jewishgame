@@ -1,0 +1,10 @@
+H:\Prog de jeu\JewHunter\bin\Debug\JewHunter.exe.config
+H:\Prog de jeu\JewHunter\bin\Debug\JewHunter.exe
+H:\Prog de jeu\JewHunter\bin\Debug\JewHunter.pdb
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.csproj.AssemblyReference.cache
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.frmJewHunter.resources
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.Properties.Resources.resources
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.csproj.GenerateResource.cache
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.csproj.CoreCompileInputs.cache
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.exe
+H:\Prog de jeu\JewHunter\obj\Debug\JewHunter.pdb
